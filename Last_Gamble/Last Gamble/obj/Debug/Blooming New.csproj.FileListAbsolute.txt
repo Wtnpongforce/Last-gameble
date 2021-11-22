@@ -1,0 +1,6 @@
+D:\New folder (5)\Blooming New\Blooming New\bin\Debug\Blooming_New.exe
+D:\New folder (5)\Blooming New\Blooming New\bin\Debug\Blooming_New.pdb
+D:\New folder (5)\Blooming New\Blooming New\obj\Debug\Blooming New.csproj.AssemblyReference.cache
+D:\New folder (5)\Blooming New\Blooming New\obj\Debug\Blooming New.csproj.CoreCompileInputs.cache
+D:\New folder (5)\Blooming New\Blooming New\obj\Debug\Blooming_New.exe
+D:\New folder (5)\Blooming New\Blooming New\obj\Debug\Blooming_New.pdb
